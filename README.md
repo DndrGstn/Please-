@@ -21,7 +21,14 @@
 ## Design & Planning:
 
 ### User Stories
-Write your user stories in this section
+On landing at the homepage, I immediately see a menu or navigation with clear sections like “Home”, “About Us”, “Merch”, “Tour”.
+
+In the “About Us” section, I learn who Wine Lips is (solo artist / band), what kind of music they make, maybe a short bio or story behind the project.
+
+In the “Merch” section I am given a link (or embedded link) to a storefront (e.g. Bandcamp) where I can browse and purchase merchandise (albums, T-shirts, etc.).
+
+In the “Tour” section I see upcoming shows/ dates / venues — or a message if currently no tour is planned — so I know if or when I can see them live.
+
 ### Wireframes
 Attach wireframes in this section
 ### Typography
@@ -32,6 +39,7 @@ Screenshoot of the colour scheme for your project
 ## Features:
 Explain your features on the website,(navigation, pages, links, forms.....)
 ### Navigation
+Navigation is easy: I can move between sections without confusion. just press the button for each "page"
 ### Footer
 ### Other features
 ## Technologies Used
@@ -58,7 +66,8 @@ paste here you user story | what is visible to the user and what action they sho
 - and attach screenshot
 
 ## Bugs
-List of bugs and how did you fix them
+navbar bug: it changes size depending on witch page you are on
+navbar bug: the items spacing switch sometimes when pressed 
 
 ## Deployment
 
