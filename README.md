@@ -21,13 +21,8 @@
 ## Design & Planning:
 
 ### User Stories
-On landing at the homepage, I immediately see a menu or navigation with clear sections like “Home”, “About Us”, “Merch”, “Tour”.
+I choose to make a website for one of my favorite bands, Wine Lips. when i buildt teh site i thaoght a lot about the style and the imeging.
 
-In the “About Us” section, I learn who Wine Lips is (solo artist / band), what kind of music they make, maybe a short bio or story behind the project.
-
-In the “Merch” section I am given a link (or embedded link) to a storefront (e.g. Bandcamp) where I can browse and purchase merchandise (albums, T-shirts, etc.).
-
-In the “Tour” section I see upcoming shows/ dates / venues — or a message if currently no tour is planned — so I know if or when I can see them live.
 
 ### Wireframes
 Attach wireframes in this section
