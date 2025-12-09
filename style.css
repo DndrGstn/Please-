@@ -10,7 +10,6 @@ body {
     background-image: url("wine lips 4.jpg");
     background-size: cover;
     background-position: center;
-    height: 100vh;
 }
 
 .navbar {
@@ -168,5 +167,6 @@ p.hero-content {
 
     padding: 40px;
     text-align: center;
+
 
 }
