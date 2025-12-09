@@ -19,9 +19,12 @@
 7. [Credits](#credits)
 
 ## Design & Planning:
+I chose to create a website for one of my favorite bands, Wine Lips. I really love their energetic, psychedelic aesthetic and wanted to capture and expand on that visual style throughout the site.
+
+My goal was to design an easy-to-navigate website that lets visitors quickly discover who the band is, explore their music, find concert dates, look through merch, and read essential information about the band. The site focuses on a retro, 70s-inspired vibe to match Wine Lips’ look and feel, while still being simple, functional, and enjoyable to use.
 
 ### User Stories
-I choose to make a website for one of my favorite bands, Wine Lips. when i buildt teh site i thaoght a lot about the style and the imeging.
+
 
 
 ### Wireframes
@@ -34,15 +37,18 @@ Screenshoot of the colour scheme for your project
 ## Features:
 Explain your features on the website,(navigation, pages, links, forms.....)
 ### Navigation
-Navigation is easy: I can move between sections without confusion. just press the button for each "page"
+The navigation is simple and intuitive. Each section of the site is clearly labeled, and I can move between pages without confusion. All it takes is pressing the button for the page you want, making the site easy to explore even for first-time visitors.
 ### Footer
 ### Other features
+I implemented a signup form that allows visitors to subscribe for updates from the band. By joining the mailing list, users can receive information about new tours, album releases, and other important announcements. This feature helps keep fans engaged and ensures they never miss out on upcoming events or new music.
 ## Technologies Used
 List of technologies used for your project...
 HTML
 CSS
 Bootstrap
 Github
+chatGPT
+openAi
 ## Testing
 Important part of your README!!!
 ### Google's Lighthouse Performance
